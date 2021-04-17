@@ -3,4 +3,4 @@
 Sankey diagrams are a type of flow diagram in which the width of the arrows is proportional to the flow rate. The illustration shows a Sankey diagram that represents all the primary energy that flows into a factory. 
 
 
-<img src="Sankey_Chart.jpg" alt="Chart" width="500" height="333">
+<img src="Sankey_Chart.png" alt="Chart" width="500" height="333">
