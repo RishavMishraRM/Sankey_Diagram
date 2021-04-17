@@ -7,3 +7,4 @@ Sankey diagrams are a type of flow diagram in which the width of the arrows is p
 This above shown chart is movable we can move those High, Medium, & Low.
 
 <img src="Sankey_Diagram_Can_Be.png" alt="Be" width="500" height="333">
+It ca look like this too if we can use our Flow Chart well.
